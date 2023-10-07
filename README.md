@@ -42,7 +42,7 @@
 </details>
 
 ### Link to React Front End
-You can find the React app repository [here](https://github.com/ibugithub/ReactRailFrontEnd/pull/1)
+You can find the React app repository [here](https://github.com/ibugithub/ReactRailFrontEnd/)
 
 ### Key Features <a name="key-features"></a>
 
